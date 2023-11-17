@@ -99,16 +99,16 @@ The questions below will ask you about the mobile design and design patterns use
 
 1. What mobile design pattern(s) do you use in your current implementation of Badger News?
 
-INSERT YOUR RESPONSE HERE.
+2 mobile desgin patterns used in my implementation are stacks, as used for the article and cards which are used to show the highlight of the data.
 
 2. Do you believe that Badger News (this homework) or Badger Bakery (last homework) was more mobile-friendly? Support your answer.
 
-INSERT YOUR RESPONSE HERE.
+I believe that this one was more mobile friendly because there was easier navigation used for this one with the bottom tab navigator and there were also smoother transitions
 
 3. What other gesture(s) could be added to Badger News? What additional functionality would these gesture(s) support?
 
-INSERT YOUR RESPONSE HERE.
+A gesture that could be added could be that if you press and drag articles then you can reorder them, this would allow users to put their favorite articles to the top. 
 
 4. Is there opportunity to add any microinteraction(s)? If so, what would be the trigger-action pair(s)?
 
-INSERT YOUR RESPONSE HERE.
+I dont think there are any opportunities to add microinteractions, the app is pretty simple and does not require any, maybe if it were more advance there could be a chime everytime a new article is posted.
